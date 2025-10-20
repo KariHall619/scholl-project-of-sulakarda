@@ -1,0 +1,6 @@
+﻿  chess.cpp
+  chess.hpp
+  test.cpp
+  正在生成代码...
+x64\Debug\chess.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  sulakaerta.vcxproj -> D:\c++\sulakaerta\x64\Debug\sulakaerta.exe

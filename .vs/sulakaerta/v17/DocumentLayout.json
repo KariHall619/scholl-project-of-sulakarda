@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\sulakaerta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|solutionrelative:sulakaerta\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|solutionrelative:sulakaerta\\chess.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EBFF221-F858-469E-90D1-8C822EE6C28C}|sulakaerta\\sulakaerta.vcxproj|solutionrelative:sulakaerta\\chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\test.cpp",
+              "RelativeDocumentMoniker": "sulakaerta\\test.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\test.cpp",
+              "RelativeToolTip": "sulakaerta\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T07:48:36.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chess.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.cpp",
+              "RelativeDocumentMoniker": "sulakaerta\\chess.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.cpp",
+              "RelativeToolTip": "sulakaerta\\chess.cpp",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAP4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T04:39:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chess.hpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.hpp",
+              "RelativeDocumentMoniker": "sulakaerta\\chess.hpp",
+              "ToolTip": "D:\\c\u002B\u002B\\sulakaerta\\sulakaerta\\chess.hpp",
+              "RelativeToolTip": "sulakaerta\\chess.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T02:34:20.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
